@@ -1,8 +1,9 @@
 <img width="400" src="https://github.com/onix12Q/editor/blob/master/img/image_4.png">
 <img width="400" src="https://github.com/onix12Q/editor/blob/master/img/paintSprites.png">
 <img width="400" src="https://github.com/onix12Q/editor/blob/master/img/effects.png">
-
-
+<img width="400" src="https://github.com/onix12Q/editor/blob/master/img/img_compare.png">
+<img width="400" src="https://github.com/onix12Q/editor/blob/master/img/img1.png">
+<img width="400" src="https://github.com/onix12Q/editor/blob/master/img/lastic_star.png">
 
 Приложение для работы с растровой графикой.
 
@@ -60,14 +61,10 @@
 
 Для создания цветовых эффектов нужно выделить контуром область эффекта, ввести условие в одну из четырех полей формы R G B A (например 0 в поле A 0-255 чтобы область стала прозрачной) или в форму "применить функцию" и кликнуть по соответствующей кнопке.
 
-<img width="400" src="https://github.com/onix12Q/editor/blob/master/img/img1.png">
-
 <b style="font-weight: bold;">Эффекты форм с помощью спрайтов.</b> 
 
 Форма "применить функцию" и "применить к выделению" для контура спрайта. Кнопка клавиатуры "Q" данные из формы "применить к выделению" - при перемещении спрайта, "E" данные из формы "применить функцию", "W"  - данные из формы "применить к выделению" для точечного применения.
 Для их использования необходимо задать условие в одну из форм, затем выбрать спрайт, и нажать кнопку W или E. Q - для эфекктов при движении спрайта по экрану с нажатой кнопкой мыши и кнопкой "Q" соответственно.
-
-<img width="400" src="https://github.com/onix12Q/editor/blob/master/img/lastic_star.png">
 
 <b style="font-weight: bold;">Прозрачность на основе красного или другого цвета</b>
 
@@ -77,6 +74,6 @@
 Таким образом можно складывать или вычитать изображение фона с изображением спрайта, чтобы делать различные виды масок, интенсивность прозрачности на основе интенсивности цвета маски и т.д. 
 В примере ниже создан дырявый и облачный ластик (A = A-R1+10).
 
-<img width="400" src="https://github.com/onix12Q/editor/blob/master/img/img_compare.png">
+
            
 
